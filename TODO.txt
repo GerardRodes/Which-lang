@@ -1,4 +1,0 @@
-[x] format dictionaries
-[ ] learn tensorflow
-[ ] neural network
-[ ] GUI
