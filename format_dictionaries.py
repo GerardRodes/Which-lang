@@ -11,7 +11,6 @@ FORBIDDEN = [char.decode('utf-8') for char in NUMBERS + CHARACTERS]
 
 
 
-
 dictionaries = [dictionary for dictionary in os.listdir(FOLDER)
                 if os.path.isfile( os.path.join(FOLDER, dictionary) ) and dictionary.endswith('.txt') ]
 
