@@ -10,3 +10,4 @@ Neural network to detect language of a word
 - [ ] learn vue.js, it looks so cool and hipster  
 - [ ] think a GUI design  
 - [ ] code GUI  
+- [ ] wire all the shit together  
