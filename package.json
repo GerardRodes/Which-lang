@@ -1,0 +1,19 @@
+{
+  "name": "which_lang",
+  "version": "1.0.0",
+  "description": "Neural network to detect language of a word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardRodes/Which-lang.git"
+  },
+  "author": "Gerard Rodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GerardRodes/Which-lang/issues"
+  },
+  "homepage": "https://github.com/GerardRodes/Which-lang#readme"
+}
